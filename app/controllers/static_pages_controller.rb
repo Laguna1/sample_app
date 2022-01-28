@@ -1,7 +1,14 @@
+# frozen_string_literal: true
+
 class StaticPagesController < ApplicationController
-  def home
+  def home; end
+
+  def help; end
+
+  def about
   end
 
-  def help
+  def contact
+    
   end
 end
