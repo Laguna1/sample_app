@@ -1,7 +1,6 @@
 # README
 
-[Current Live Demo](https://git.heroku.com/warm-savannah-99063.git
-)
+[Current Live Demo](https://warm-savannah-99063.herokuapp.com/)
 
 # Ruby on Rails Tutorial sample application
 
