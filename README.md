@@ -11,6 +11,11 @@ Learn Web Development with Rails*](https://www.railstutorial.org/)
 (6th Edition)
 by [Michael Hartl](https://www.michaelhartl.com/).
 
+### In this repo, I missed chapters:
+- 9 (Advanced Login), 
+- 11 (Account Activation), 
+- 12 (Password Reset) from the tutorial.
+
 ## License
 
 All source code in the [Ruby on Rails Tutorial](https://www.railstutorial.org/)
