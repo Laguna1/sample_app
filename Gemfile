@@ -6,6 +6,7 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 ruby '2.7.2'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails', branch: 'main'
+gem 'active_storage_validations', '0.8.9'
 gem 'bcrypt', '3.1.13'
 gem 'bootsnap', '1.7.2', require: false
 gem 'bootstrap-sass', '3.4.1'
