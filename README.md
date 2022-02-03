@@ -24,7 +24,7 @@ is available jointly under the MIT License and the Beerware License. See
 ## Getting started
 
 To get started with the app, clone the repo and then install the needed gems:
-
+- `git clone https://github.com/Laguna1/sample_app`
 ```
 $ gem install bundler -v 2.2.17
 $ bundle _2.2.17_ config set --local without 'production'
