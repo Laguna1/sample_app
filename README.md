@@ -52,3 +52,5 @@ $ rails server
 For more information, see the
 
 - Guard `bundle _2.2.17_ exec guard`
+
+- Downloading a fixture image for use in the tests `curl -o test/fixtures/kitten.jpg -L https://cdn.learnenough.com/kitten.jpg`
