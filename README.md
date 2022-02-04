@@ -14,6 +14,7 @@ by [Michael Hartl](https://www.michaelhartl.com/).
 - 9 (Advanced Login), 
 - 11 (Account Activation), 
 - 12 (Password Reset) from the tutorial.
+- ? Eager Loading and the N+1 Query Problem ?
 
 ## License
 
