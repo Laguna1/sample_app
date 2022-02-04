@@ -1,6 +1,9 @@
 # README
 
 ## [Current Live Demo](https://warm-savannah-99063.herokuapp.com/)
+- User date for the checking:
+- Admin - `example@railstutorial.org`, password - `foobar`
+- any other user `example-<number>@railstutorial.org`, password - `password`
 
 # Ruby on Rails Tutorial sample application
 
