@@ -25,7 +25,7 @@ class UsersProfileTest < ActionDispatch::IntegrationTest
     end
   end
 
-  test "test profile stats on home page" do
+  test 'test profile stats on home page' do
     log_in_as(@user)
     get root_path(@user)
     assert_template 'static_pages/home'
